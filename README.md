@@ -1,4 +1,4 @@
-**#  PROJECT: BANK LOAN / FINANCE ANALYTICS**
+**PROJECT: BANK LOAN / FINANCE ANALYTICS**
 
 KPI-1: Year wise loan amount stats.
 
